@@ -10,6 +10,7 @@ namespace calculator2
             {
                 Console.WriteLine("Podaj pierwsza liczbę:");
 
+
                 var a = GetInput(); 
 
                 Console.WriteLine("Jaka operację chcesz wykonać?");
